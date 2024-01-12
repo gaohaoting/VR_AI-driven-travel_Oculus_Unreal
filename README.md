@@ -5,17 +5,15 @@ Generative Artificial Intelligence (AI) and Virtual Reality (VR) technologies ar
 ## The concept of the developed workflow for AI-driven immersive learning
 ![Picture1](https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/0d9947c1-b69e-414b-93a9-b3ba1a79e989)
 
-
-
 ## The digital model(up) and photo(down) the Temple of Demeter, Naxos Island, Greece
-<img width=100% alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/e6877bee-2127-4960-a77c-c163d841191c">
-<img width=100% alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/37cb2518-eaa6-42f4-9792-2490c4749b75">
+<img width="177" alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/f66fdc46-107f-46f0-a16b-36fd898fb5e3">
+<img width="178" alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/41f9080f-ab64-4e50-aee8-478c2c6af2dc">
 
 ## Information architecture of VR environment with generative AI virtual avatar
-<img width=100% alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/afdc27a6-7a02-48a3-883d-47726921404b">
+<img width="367" alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/2b555603-9a68-49ca-9658-78d7478c1e89">
 
 ## (a) Talk with AI virtual avatar; (b) Use teleport to navigate; (c) Question board for studying
-<img width=100% alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/f65fe2a8-1c6e-44ad-8f34-b74936a2587f">
+<img width="175" alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/35fbeb98-7968-433d-b336-80f377a0b14b">
 
 
 
