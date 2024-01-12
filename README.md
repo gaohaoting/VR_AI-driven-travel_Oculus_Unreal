@@ -5,7 +5,7 @@ Generative Artificial Intelligence (AI) and Virtual Reality (VR) technologies ar
 ## The concept of the developed workflow for AI-driven immersive learning
 ![Picture1](https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/0d9947c1-b69e-414b-93a9-b3ba1a79e989)
 
-## The digital model(up) and photo(down) the Temple of Demeter, Naxos Island, Greece
+## The digital model(Left) and photo(Right) the Temple of Demeter, Naxos Island, Greece
 <img width="177" alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/f66fdc46-107f-46f0-a16b-36fd898fb5e3">
 <img width="178" alt="image" src="https://github.com/gaohaoting/VR_AI-driven-travel_Oculus_Unreal/assets/112485201/41f9080f-ab64-4e50-aee8-478c2c6af2dc">
 
